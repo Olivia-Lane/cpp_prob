@@ -1,1 +1,1 @@
-# python_test
+// cpp test
